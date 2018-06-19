@@ -1,1 +1,1 @@
-# sharepoin.workshop
+# SharePoint Workshop
